@@ -15,14 +15,32 @@ Research current (2026) short-form content trends on TikTok and Instagram in the
 
 ---
 
-## STEP 1 — Research
+## SEARCH STRATEGY (CRITICAL UPGRADE)
 
-Use web search to find recent (2025–2026) examples of high-performing hooks from:
-- TikTok videos targeting fitness coaches or online coaches
-- Instagram Reels targeting fitness coaches or online coaches
-- Creator accounts in the fitness business coaching niche
+Do NOT use generic marketing blogs, listicles, or "50 best hooks" articles.
 
-Search for a variety of hook styles. Prioritize hooks that are bold, emotionally sharp, and curiosity-driven. Reject generic or overused hooks.
+Prioritize extracting hooks from REAL creator content.
+
+Use search strategies like:
+
+- site:tiktok.com ("fitness coach" OR "online fitness coach") ("10k month" OR "sign clients" OR "applications open" OR "DM me") (2026 OR 2025)
+- site:instagram.com ("fitness coach" OR "fitness business coach") ("reel" OR "clients" OR "10k") (2026 OR 2025)
+- "women fitness coach" "reel" "10k month"
+- "fitness business coach" "this is why" "no clients"
+- Search for specific women fitness business coaches and extract the first line of their captions or transcripts.
+
+If direct platform pages block fetching:
+- Use Google result snippets
+- Use YouTube Shorts reposts
+- Use LinkedIn posts quoting the hook
+- Use newsletters or creator blogs quoting their Reel/TikTok openers
+
+Reject:
+- SEO marketing blogs
+- Hook template sites
+- Generic social media advice sites
+
+Only extract hooks that were actually used by real creators.
 
 ---
 
